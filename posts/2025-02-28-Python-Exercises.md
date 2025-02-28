@@ -11,7 +11,6 @@ Exercise 1: Guessing Game
 Problem Statement: Create a program that asks the user to guess a random number between 1 and 100.
 
 Solution:
-
 import random
 
 def guessing_game():
