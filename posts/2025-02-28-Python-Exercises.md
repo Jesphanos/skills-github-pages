@@ -1,10 +1,9 @@
-
-"Try-It-Yourself-Exercises"
 ---
-### 2025-02-28
+title: "Try-It-Yourself-Exercises"
+date: 2025-02-28
 ---
 
-Python Exercise Solutions
+# Python Exercises & Solutions
 Introduction
 Welcome to my Python exercise blog! Here, I'll be sharing my solutions to various Python exercises and projects. This blog is intended for beginners and intermediate learners who want to improve their Python skills.
 
